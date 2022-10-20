@@ -1,0 +1,40 @@
+body{
+  background:black;
+}
+h1{
+  font-size:35px;
+  text-align: center;
+  font-family:cursive;
+  text-decoration: underline;
+  text-shadow: -3px 4px white);
+  color:rgb(171, 245, 223)
+}
+h2{
+  text-align: center;
+  color:cadetblue;
+  text-decoration:underline;
+}
+h3{
+  color:dodgerblue;
+ 
+}
+p{
+  color:forestgreen;
+}
+ol{
+  color:dodgerblue;
+}
+ul{
+  color:fuchsia;
+}
+img{
+  opacity: 1;
+  margin-left:600px;
+  width:300px;
+  height: 300px;
+  border-radius: 50%;
+  border: solid white 8px;
+  
+  
+  
+  
